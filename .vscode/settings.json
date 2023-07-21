@@ -1,6 +1,6 @@
 {
     "python.testing.pytestArgs": [
-        "transpose"
+        "resistor-color-expert"
     ],
     "python.testing.unittestEnabled": false,
     "python.testing.pytestEnabled": true,
