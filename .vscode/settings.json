@@ -1,6 +1,6 @@
 {
     "python.testing.pytestArgs": [
-        "ocr-numbers"
+        "change"
     ],
     "python.testing.unittestEnabled": false,
     "python.testing.pytestEnabled": true,
