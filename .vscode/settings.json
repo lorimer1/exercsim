@@ -1,6 +1,6 @@
 {
     "python.testing.pytestArgs": [
-        "roman-numerals"
+        "tournament"
     ],
     "python.testing.unittestEnabled": false,
     "python.testing.pytestEnabled": true,
