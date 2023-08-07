@@ -1,6 +1,6 @@
 {
     "python.testing.pytestArgs": [
-        "sieve"
+        "pythagorean-triplet"
     ],
     "python.testing.unittestEnabled": false,
     "python.testing.pytestEnabled": true,
